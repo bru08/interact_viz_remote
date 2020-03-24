@@ -1,1 +1,1 @@
-web: bokeh serve --port=$PORT --host=bokeh-viz.herokuapp.com --host=* --address=0.0.0.0 --use-xheaders bokeh_app5.py
+web: bokeh serve --port=$PORT --host=* --address=0.0.0.0 --use-xheaders bokeh_app5.py
